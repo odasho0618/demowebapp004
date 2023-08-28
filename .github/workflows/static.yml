@@ -4,7 +4,7 @@ name: mabl Simple Example
 
 jobs:
   test:
-    name: mabl Test
+    name: Run mabl tests
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
