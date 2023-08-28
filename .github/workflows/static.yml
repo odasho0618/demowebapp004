@@ -18,7 +18,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           application-id: msLNrEPYzmtro1nDFFGtrg-a
-          environment-id: FOwe9sPsq5xXPStpzJib9g-e
+          environment-id: CfECNBSiudMwujxrEwIgfg-e
           plan-labels: |
             github
           browser-types: |
