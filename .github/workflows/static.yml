@@ -21,6 +21,4 @@ jobs:
           environment-id: FOwe9sPsq5xXPStpzJib9g-e
           plan-labels: |
             github
-          browser-types: |
-            chrome
-            firefox
+
